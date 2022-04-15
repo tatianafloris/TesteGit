@@ -93,7 +93,7 @@
 
 
 
-# Referência bibliográfica:
+# Referência:
 
 Autor: **Panelinha**
 
